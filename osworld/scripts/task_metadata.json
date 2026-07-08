@@ -1,0 +1,1498 @@
+{
+  "chrome": {
+    "030eeff7-b492-4218-b312-701ec99ee0cc": {
+      "name": "Enable Do Not Track in Chrome",
+      "description": "Test that the LLM can enable the Do Not Track privacy feature in Chrome settings"
+    },
+    "06fe7178-4491-4589-810f-2e2bc9502122": {
+      "name": "Reopen Last Closed Tab",
+      "description": "Test that the LLM can restore the most recently closed browser tab in Chrome"
+    },
+    "0d8b7de3-e8de-4d86-b9fd-dd2dce58a217": {
+      "name": "Browse Natural Products Database on Drugs.com",
+      "description": "Test that the LLM can navigate to the natural products database section on drugs.com"
+    },
+    "12086550-11c0-466b-b367-1d9e75b3910e": {
+      "name": "Navigate to Chrome Password Manager",
+      "description": "Test that the LLM can open Chrome's password manager settings to view saved login information"
+    },
+    "121ba48f-9e17-48ce-9bc6-a4fb17a7ebba": {
+      "name": "Add Dota 2 DLC to Steam Cart",
+      "description": "Test that the LLM can find Dota 2 on Steam and add all available DLC to the shopping cart"
+    },
+    "1704f00f-79e6-43a7-961b-cedd3724d5fd": {
+      "name": "Search Large Rental Car in Zurich by Price",
+      "description": "Test that the LLM can search for a large rental car in Zurich from Monday to Friday sorted by price on rentalcars.com"
+    },
+    "2888b4e6-5b47-4b57-8bf5-c73827890774": {
+      "name": "Filter Men's Shirts on Macy's",
+      "description": "Test that the LLM can filter men's large short-sleeve shirts with 50%+ discount on Macy's website"
+    },
+    "2ad9387a-65d8-4e33-ad5b-7580065a27ca": {
+      "name": "Create Bookmarks Bar Folder",
+      "description": "Test that the LLM can create a new folder named 'Favorites' on Chrome's bookmarks bar"
+    },
+    "2ae9ba84-3a0d-4d4c-8338-3a1478dc5fe3": {
+      "name": "Change Chrome Profile Username",
+      "description": "Test that the LLM can change the Chrome profile username to Thomas"
+    },
+    "3299584d-8f11-4457-bf4c-ce98f7600250": {
+      "name": "Remove Unwanted Startup Page",
+      "description": "Test that the LLM can remove an unwanted startup page (funbrain.com) that opens automatically in Chrome"
+    },
+    "35253b65-1c19-4304-8aa4-6884b8218fc0": {
+      "name": "Create Desktop Shortcut for Webpage",
+      "description": "Test that the LLM can create a desktop shortcut for the current webpage using Chrome's built-in feature"
+    },
+    "368d9ba4-203c-40c1-9fa3-da2f1430ce63": {
+      "name": "Find Monthly Weather Forecast for Manchester",
+      "description": "Test that the LLM can find the monthly weather forecast for Manchester, GB on AccuWeather"
+    },
+    "3720f614-37fd-4d04-8a6b-76f54f8c222d": {
+      "name": "Change Chrome Language to Xenothian (Infeasible)",
+      "description": "Test that the LLM correctly identifies that changing Chrome's language to a fictional language is infeasible"
+    },
+    "44ee5668-ecd5-4366-a6ce-c1c9b8d4e938": {
+      "name": "Delete YouTube Browsing History",
+      "description": "Test that the LLM can selectively clear all YouTube entries from Chrome's browsing history"
+    },
+    "47543840-672a-467d-80df-8f7c3b9788c9": {
+      "name": "Search Cars at Boston Airport on Budget.com",
+      "description": "Test that the LLM can search for rental cars at Boston Logan Airport sorted by seat capacity on budget.com"
+    },
+    "480bcfea-d68f-4aaa-a0a9-2589ef319381": {
+      "name": "Disable 2023 Chrome UI (Infeasible)",
+      "description": "Test that the LLM correctly identifies that disabling the 2023 Chrome UI refresh is infeasible"
+    },
+    "59155008-fe71-45ec-8a8f-dc35497b6aa8": {
+      "name": "Find Similar Names to Carl on BabyCenter",
+      "description": "Test that the LLM can navigate to the page showing similar names to Carl on babycenter.com"
+    },
+    "6766f2b8-8a72-417f-a9e5-56fcaa735837": {
+      "name": "Load Unpacked Chrome Extension",
+      "description": "Test that the LLM can unzip and load an unpacked extension into Chrome from the Desktop"
+    },
+    "6c4c23a1-42a4-43cc-9db1-2f86ff3738cc": {
+      "name": "Search Flights with Miles on Delta",
+      "description": "Test that the LLM can search for flights from Seattle to New York purchasable with miles on delta.com"
+    },
+    "7a5a7856-f1b6-42a4-ade9-1ca81ca0f263": {
+      "name": "Bookmark Current Page to Bookmarks Bar",
+      "description": "Test that the LLM can save the current active webpage to Chrome's bookmarks bar"
+    },
+    "7b6c7e24-c58a-49fc-a5bb-d57b80e5b4c3": {
+      "name": "Delete Amazon Cookies",
+      "description": "Test that the LLM can delete all Amazon tracking cookies from Chrome"
+    },
+    "7f52cab9-535c-4835-ac8c-391ee64dc930": {
+      "name": "Filter Drip Coffee Makers on Google Shopping",
+      "description": "Test that the LLM can filter drip coffee makers on Google Shopping by sale, price $25-60, and black finish"
+    },
+    "82279c77-8fc6-46f6-9622-3ba96f61b477": {
+      "name": "Search Electric Cars Under $50K on Cars.com",
+      "description": "Test that the LLM can search for electric cars under $50,000 within 50 miles of zip 10001 on cars.com"
+    },
+    "82bc8d6a-36eb-4d2d-8801-ef714fb1e55a": {
+      "name": "Search Flight Mumbai to Stockholm on Qatar",
+      "description": "Test that the LLM can search for a flight from Mumbai to Stockholm on next Monday via Qatar Airways"
+    },
+    "93eabf48-6a27-4cb6-b963-7d5fe1e0d3a9": {
+      "name": "Disable Chrome Dark Mode",
+      "description": "Test that the LLM can turn off dark mode in Chrome's appearance settings"
+    },
+    "9656a811-9b5b-4ddf-99c7-5117bcef0626": {
+      "name": "Enable Safe Browsing in Chrome",
+      "description": "Test that the LLM can enable Chrome's Safe Browsing feature to warn about harmful websites"
+    },
+    "99146c54-4f37-4ab8-9327-5f3291665e1e": {
+      "name": "Auto-Delete Browsing Data on Close",
+      "description": "Test that the LLM can configure Chrome to automatically delete browsing data when the browser closes"
+    },
+    "9f3f70fc-5afc-4958-a7b7-3bb4fcb01805": {
+      "name": "Browse Women's Nike Jerseys Over $60 on NBA",
+      "description": "Test that the LLM can filter women's Nike jerseys over $60 on the NBA website store"
+    },
+    "9f935cce-0a9f-435f-8007-817732bfc0a5": {
+      "name": "Find Civil Division Forms on Justice.gov",
+      "description": "Test that the LLM can navigate to the Civil Division forms page on justice.gov"
+    },
+    "a728a36e-8bf1-4bb6-9a03-ef039a5233f0": {
+      "name": "Find Driver License Eligibility on VA DMV",
+      "description": "Test that the LLM can find driver license eligibility requirements on the Virginia DMV website"
+    },
+    "a96b564e-dbe9-42c3-9ccf-b4498073438a": {
+      "name": "Find Most Replied Discussion on FlightAware",
+      "description": "Test that the LLM can find and open the community discussion with the most replies on FlightAware"
+    },
+    "ae78f875-5b98-4907-bbb5-9c737fc68c03": {
+      "name": "Set 50 Search Results Per Page (Infeasible)",
+      "description": "Test that the LLM correctly identifies that setting Chrome to display 50 search results per page is infeasible"
+    },
+    "af630914-714e-4a24-a7bb-f9af687d3b91": {
+      "name": "Set Chrome Font Size to Very Large",
+      "description": "Test that the LLM can set Chrome's default font size to the largest available option"
+    },
+    "b070486d-e161-459b-aa2b-ef442d973b92": {
+      "name": "Show Tamiflu Side Effects on Drugs.com",
+      "description": "Test that the LLM can navigate to the Tamiflu side effects page on drugs.com"
+    },
+    "b4f95342-463e-4179-8c3f-193cd7241fb2": {
+      "name": "Find Diamond Availability on Recreation.gov",
+      "description": "Test that the LLM can find next available dates for Diamond campground on recreation.gov"
+    },
+    "b7895e80-f4d1-4648-bee0-4eb45a6f1fa8": {
+      "name": "Find Cheapest NYC Hotel on TripAdvisor",
+      "description": "Test that the LLM can find the lowest-priced hotel in NYC for 2 adults next weekend on TripAdvisor"
+    },
+    "bb5e4c0d-f964-439c-97b6-bdb9747de3f4": {
+      "name": "Set Default Search Engine to Bing",
+      "description": "Test that the LLM can change Chrome's default search engine from Google to Bing"
+    },
+    "c1fa57f3-c3db-4596-8f09-020701085416": {
+      "name": "Open United Airlines Baggage Fee Calculator",
+      "description": "Test that the LLM can navigate to the baggage fee calculator on the United Airlines website"
+    },
+    "cabb3bae-cccb-41bd-9f5d-0f3a9fecd825": {
+      "name": "Browse Spider-Man Toys Sorted by Price",
+      "description": "Test that the LLM can find kids' Spider-Man toys sorted by lowest price on Kohl's website"
+    },
+    "da46d875-6b82-4681-9284-653b0c7ae241": {
+      "name": "Book MBTA CharlieCard Appointment",
+      "description": "Test that the LLM can book a TAP card appointment at MBTA CharlieCard store with specific date and details"
+    },
+    "e1e75309-3ddb-4d09-92ec-de869c928143": {
+      "name": "Save Webpage as PDF to Desktop",
+      "description": "Test that the LLM can save the current webpage as a PDF with no margins to the Desktop"
+    },
+    "f0b971a1-6831-4b9b-a50e-22a6e47f45ba": {
+      "name": "Find 2019 Super Bowl Score on NFL.com",
+      "description": "Test that the LLM can find the Super Bowl score record for the 2019 NFL season on nfl.com"
+    },
+    "f3b19d1e-2d48-44e9-b4e1-defcae1a0197": {
+      "name": "Find Ticket Delivery FAQ on Ticketek",
+      "description": "Test that the LLM can navigate to the ticket delivery FAQ page on Ticketek Australia"
+    },
+    "f5d96daf-83a8-4c86-9686-bada31fc66ab": {
+      "name": "Compare iPhone Models on Apple.com",
+      "description": "Test that the LLM can compare iPhone 15, 14, and 13 Pro Max models on the Apple website"
+    },
+    "f79439ad-3ee8-4f99-a518-0eb60e5652b0": {
+      "name": "Search One-Way Flight Dublin to Vienna",
+      "description": "Test that the LLM can search for a one-way flight from Dublin to Vienna for 2 adults on Ryanair"
+    },
+    "fc6d8143-9452-4171-9459-7f515143419a": {
+      "name": "Search Flight JFK to ORD on Delta",
+      "description": "Test that the LLM can search for flights from JFK to Chicago O'Hare for tomorrow on delta.com"
+    }
+  },
+  "gimp": {
+    "2a729ded-3296-423d-aec4-7dd55ed5fbb3": {
+      "name": "Make Image Background Transparent",
+      "description": "Test that the LLM can remove an image background and make it transparent in GIMP"
+    },
+    "06ca5602-62ca-47f6-ad4f-da151cde54cc": {
+      "name": "Convert Image to Palette-Based Mode",
+      "description": "Test that the LLM can convert an image to palette-based (indexed) color mode in GIMP"
+    },
+    "045bf3ff-9077-4b86-b483-a1040a949cff": {
+      "name": "Convert Image to CMYK Mode (Infeasible)",
+      "description": "Test that the LLM recognizes GIMP cannot natively convert images to CMYK color mode"
+    },
+    "734d6579-c07d-47a8-9ae2-13339795476b": {
+      "name": "Fill Background Layer with Green",
+      "description": "Test that the LLM can fill the background layer with green color while preserving the object layer in GIMP"
+    },
+    "62f7fd55-0687-4a43-b6e1-3eda16fc6252": {
+      "name": "Convert PNG to SVG in GIMP (Infeasible)",
+      "description": "Test that the LLM recognizes GIMP cannot convert raster PNG images to SVG vector format"
+    },
+    "5ca86c6f-f317-49d8-b6a7-b527541caae8": {
+      "name": "Download Logo via GIMP (Infeasible)",
+      "description": "Test that the LLM recognizes GIMP cannot download images from the web using only built-in features"
+    },
+    "72f83cdc-bf76-4531-9a1b-eb893a13f8aa": {
+      "name": "Mirror Image Horizontally",
+      "description": "Test that the LLM can flip/mirror an image horizontally in GIMP"
+    },
+    "38f48d40-764e-4e77-a7cf-51dfce880291": {
+      "name": "Trim Video in GIMP (Infeasible)",
+      "description": "Test that the LLM recognizes GIMP cannot trim or edit video files"
+    },
+    "554785e9-4523-4e7a-b8e1-8016f565f56a": {
+      "name": "Enhance Color Vibrancy of Photo",
+      "description": "Test that the LLM can increase color saturation to enhance vibrancy of a photo in GIMP"
+    },
+    "2e6f678f-472d-4c55-99cc-8e7c5c402a71": {
+      "name": "Batch Increase Brightness (Infeasible)",
+      "description": "Test that the LLM recognizes GIMP cannot batch process multiple images to increase brightness simultaneously"
+    },
+    "7767eef2-56a3-4cea-8c9f-48c070c7d65b": {
+      "name": "Change GIMP Theme from Dark to Light",
+      "description": "Test that the LLM can change the GIMP application theme from dark to light mode"
+    },
+    "58d3eeeb-e9d0-499f-962e-fd0db2a744d8": {
+      "name": "Translate Hidden Audio in Image (Infeasible)",
+      "description": "Test that the LLM recognizes it cannot extract and translate hidden audio from an image in GIMP"
+    },
+    "e2dd0213-26db-4349-abe5-d5667bfd725c": {
+      "name": "Move Text Box to the Left",
+      "description": "Test that the LLM can select and move a text layer to the left side of the canvas in GIMP"
+    },
+    "7a4deb26-d57d-4ea9-9a73-630f66a7b568": {
+      "name": "Decrease Photo Brightness",
+      "description": "Test that the LLM can reduce the brightness of a photo in GIMP"
+    },
+    "a746add2-cab0-4740-ac36-c3769d9bfb46": {
+      "name": "Open Vignette Filter Window",
+      "description": "Test that the LLM can navigate GIMP menus to open the Vignette filter dialog"
+    },
+    "dbbf4b99-2253-4b10-9274-45f246af2466": {
+      "name": "Convert RAW to JPEG in GIMP (Infeasible)",
+      "description": "Test that the LLM recognizes GIMP cannot directly convert new RAW image files to JPEG format"
+    },
+    "8ea73f6f-9689-42ad-8c60-195bbf06a7ba": {
+      "name": "Upscale Without Increasing Size (Infeasible)",
+      "description": "Test that the LLM recognizes it is infeasible to enhance resolution without increasing file size in GIMP"
+    },
+    "f4aec372-4fb0-4df5-a52b-79e0e2a5d6ce": {
+      "name": "Center Yellow Triangle in Image",
+      "description": "Test that the LLM can select a triangle object layer and reposition it to the center of the canvas in GIMP"
+    },
+    "e19bd559-633b-4b02-940f-d946248f088e": {
+      "name": "Decrease Brightness Without File (Infeasible)",
+      "description": "Test that the LLM recognizes it cannot adjust brightness when no image file is provided or present"
+    },
+    "77b8ab4d-994f-43ac-8930-8ca087d7c4b4": {
+      "name": "Export Photo as export.jpg to Desktop",
+      "description": "Test that the LLM can export/rename a photo as export.jpg to the desktop using GIMP"
+    },
+    "b148e375-fe0b-4bec-90e7-38632b0d73c2": {
+      "name": "Add New Layer Named Square",
+      "description": "Test that the LLM can create a new layer and name it 'Square' in GIMP"
+    },
+    "d52d6308-ec58-42b7-a2c9-de80e4837b2b": {
+      "name": "Remove Left Dock Panel in GIMP",
+      "description": "Test that the LLM can hide or remove the left-side dock panel in the GIMP interface"
+    },
+    "f723c744-e62c-4ae6-98d1-750d3cd7d79d": {
+      "name": "Boost Image Contrast",
+      "description": "Test that the LLM can increase the contrast of an image to emphasize the subject in GIMP"
+    },
+    "7b7617bd-57cc-468e-9c91-40c4ec2bcb3d": {
+      "name": "Set Minimum Undo Steps to 100",
+      "description": "Test that the LLM can configure GIMP preferences to set the minimum number of undo levels to 100"
+    },
+    "d16c99dc-2a1e-46f2-b350-d97c86c85c15": {
+      "name": "Resize Layer Height to 512px",
+      "description": "Test that the LLM can resize a specific layer to 512 pixels height while maintaining aspect ratio in GIMP"
+    },
+    "fbb548ca-c2a6-4601-9204-e39a2efc507b": {
+      "name": "Change GIMP Color Theme to Blue (Infeasible)",
+      "description": "Test that the LLM recognizes GIMP does not have a 'Blue' color theme option available"
+    }
+  },
+  "libreoffice_calc": {
+    "01b269ae-2111-4a07-81fd-3fcd711993b0": {
+      "name": "Fill Blank Cells from Above",
+      "description": "Test that the LLM can fill blank cells in a range with the value from the cell above in LibreOffice Calc"
+    },
+    "0326d92d-d218-48a8-9ca1-981cd6d064c7": {
+      "name": "Total Sales with Bar and Line Charts",
+      "description": "Test that the LLM can calculate total sales, create a bar chart for totals and a line chart for growth percentages"
+    },
+    "035f41ba-6653-43ab-aa63-c86d449d62e5": {
+      "name": "Compute Gross Profit and Year_Profit Sheet",
+      "description": "Test that the LLM can calculate gross profit and create a new sheet with year-profit concatenation"
+    },
+    "04d9aeaf-7bed-4024-bedb-e10e6f00eb7f": {
+      "name": "Calculate Annual Asset Change Percentages",
+      "description": "Test that the LLM can compute percentage annual changes for assets in a new sheet from a balance sheet"
+    },
+    "0a2e43bf-b26c-4631-a966-af9dfa12c9e5": {
+      "name": "Monthly Total Sales with Line Chart",
+      "description": "Test that the LLM can compute monthly total sales in a new row and create a line chart of the results"
+    },
+    "0bf05a7d-b28b-44d2-955a-50b41e24012a": {
+      "name": "Pad IDs to Seven Digits with Leading Zeros",
+      "description": "Test that the LLM can copy IDs to a new column and pad them with leading zeros to seven digits"
+    },
+    "0cecd4f3-74de-457b-ba94-29ad6b5dafb6": {
+      "name": "Rename, Copy, and Reorder Sheets",
+      "description": "Test that the LLM can rename sheets, copy a sheet before another, and rename the copy with a suffix"
+    },
+    "12382c62-0cd1-4bf2-bdc8-1d20bf9b2371": {
+      "name": "Create Clustered Column Chart in New Sheet",
+      "description": "Test that the LLM can create a clustered column chart for Sales and COGS data in a new sheet"
+    },
+    "1273e544-688f-496b-8d89-3e0f40aa0606": {
+      "name": "Copy Revenue Column to New Sheet",
+      "description": "Test that the LLM can copy a Revenue column with its header to a new sheet named Sheet2"
+    },
+    "1334ca3e-f9e3-4db8-9ca7-b4c653be7d17": {
+      "name": "Zoom Out Oversized Cells",
+      "description": "Test that the LLM can zoom out a spreadsheet where cells are too large to navigate"
+    },
+    "1954cced-e748-45c4-9c26-9855b97fbc5e": {
+      "name": "Create Pivot Table Counting Invoice Numbers",
+      "description": "Test that the LLM can create a pivot table in a new sheet to count occurrences of each Invoice No"
+    },
+    "1d17d234-e39d-4ed7-b46f-4417922a4e7c": {
+      "name": "Merge Cells and Write Headers in New Sheet",
+      "description": "Test that the LLM can create a new sheet with merged cells and write Investment Summary headers"
+    },
+    "1de60575-bb6e-4c3d-9e6a-2fa699f9f197": {
+      "name": "Pivot Table of Revenue by Promotion Type",
+      "description": "Test that the LLM can create a pivot table summarizing total revenue for each promotion type"
+    },
+    "1e8df695-bd1b-45b3-b557-e7d599cf7597": {
+      "name": "Add Profit Column (Sales minus COGS)",
+      "description": "Test that the LLM can add a Profit column that calculates Sales minus COGS for each week"
+    },
+    "21ab7b40-77c2-4ae6-8321-e00d3a086c73": {
+      "name": "Calculate Period Rate and Highlight Max",
+      "description": "Test that the LLM can calculate period rates in a new column and highlight the highest value with green font"
+    },
+    "21df9241-f8d7-4509-b7f1-37e501a823f7": {
+      "name": "Convert Numbers to Millions and Billions",
+      "description": "Test that the LLM can represent numbers in millions (M) and billions (B) columns rounded to one decimal place"
+    },
+    "26a8440e-c166-4c50-aef4-bfb77314b46b": {
+      "name": "Monthly Sales Summary Table in New Sheet",
+      "description": "Test that the LLM can create a Month/Total table in a new sheet showing total sales for all months"
+    },
+    "2bd59342-0664-4ccb-ba87-79379096cc08": {
+      "name": "Create Sparkline Charts per Order ID",
+      "description": "Test that the LLM can create sparkline charts for each order ID using monthly data (infeasible task)"
+    },
+    "30e3e107-1cfb-46ee-a755-2cd080d7ba6a": {
+      "name": "Demographic Profile Pivot Tables",
+      "description": "Test that the LLM can create merged header cells and three stacked pivot tables for demographic percentages"
+    },
+    "347ef137-7eeb-4c80-a3bb-0951f26a8aff": {
+      "name": "Create Column Bar Charts for Yearly Costs",
+      "description": "Test that the LLM can create two column bar charts showing per-month total costs for 2019 and 2020"
+    },
+    "357ef137-7eeb-4c80-a3bb-0951f26a8aff": {
+      "name": "Multiply Time by Hourly Rate Correctly",
+      "description": "Test that the LLM can correctly multiply a time-formatted total hours cell by a numeric hourly rate"
+    },
+    "37608790-6147-45d0-9f20-1137bb35703d": {
+      "name": "Split Combined Field into Name and Rank",
+      "description": "Test that the LLM can split a mixed data field into separate First Name, Last Name, and Rank columns"
+    },
+    "3a7c8185-25c1-4941-bd7b-96e823c9f21f": {
+      "name": "Sort by Date and Create Line Chart",
+      "description": "Test that the LLM can sort data by date ascending and create a line chart of quantity over time"
+    },
+    "3aaa4e37-dc91-482e-99af-132a612d40f3": {
+      "name": "Export Sheet to CSV",
+      "description": "Test that the LLM can export the current spreadsheet sheet to a CSV file with the same filename"
+    },
+    "4172ea6e-6b77-4edb-a9cc-c0014bd1603b": {
+      "name": "Calculate Loan Maturity Dates",
+      "description": "Test that the LLM can calculate maturity dates for all loans in a new Maturity Date column"
+    },
+    "4188d3a4-077d-46b7-9c86-23e1a036f6c1": {
+      "name": "Freeze Header Row and Column",
+      "description": "Test that the LLM can freeze the range A1:B1 to keep headers always visible while scrolling"
+    },
+    "42e0a640-4f19-4b28-973d-729602b5a4a7": {
+      "name": "Sum Revenue and Expenses to New Sheet",
+      "description": "Test that the LLM can compute sums of Revenue and Total Expenses and place results in a new sheet"
+    },
+    "4de54231-e4b5-49e3-b2ba-61a0bec721c0": {
+      "name": "Fill Acceleration and Concatenate Columns",
+      "description": "Test that the LLM can fill formulas for acceleration and concatenate all columns into a Combined Data column"
+    },
+    "4e6fcf72-daf3-439f-a232-c434ce416af6": {
+      "name": "Calculate Employee Ages from Birthdays",
+      "description": "Test that the LLM can calculate employee ages based on their birthday dates"
+    },
+    "4f07fbe9-70de-4927-a4d5-bb28bc12c52c": {
+      "name": "Fix Decimal Padding in Text Formula",
+      "description": "Test that the LLM can fix a formula to display a number with exactly 2 decimal places inside text"
+    },
+    "51719eea-10bc-4246-a428-ac7c433dd4b3": {
+      "name": "Calculate Revenue and Pivot by Product",
+      "description": "Test that the LLM can calculate revenue from price, quantity, and discount, then create a product pivot table"
+    },
+    "51b11269-2ca8-4b2a-9163-f21758420e78": {
+      "name": "Sort Records by Amount Ascending",
+      "description": "Test that the LLM can sort spreadsheet records by the amount column in ascending order"
+    },
+    "535364ea-05bd-46ea-9937-9f55c68507e8": {
+      "name": "Pivot Tables for Product and Channel Revenue",
+      "description": "Test that the LLM can create two pivot tables showing total revenue by product and by sales channel"
+    },
+    "6054afcb-5bab-4702-90a0-b259b5d3217c": {
+      "name": "Hide Rows Containing N/A Values",
+      "description": "Test that the LLM can hide rows with N/A values without deleting cells or using filters"
+    },
+    "6e99a1ad-07d2-4b66-a1ce-ece6d99c20a5": {
+      "name": "Format Column to Two Decimal Places",
+      "description": "Test that the LLM can format the spent column to display exactly two decimal points"
+    },
+    "7a4e4bc8-922c-4c84-865c-25ba34136be1": {
+      "name": "Reorder Columns in Spreadsheet",
+      "description": "Test that the LLM can rearrange columns to a specified order (Date, First Name, Last Name, Order ID, Sales)"
+    },
+    "7e429b8d-a3f0-4ed0-9b58-08957d00b127": {
+      "name": "VLOOKUP to Fill Officer Names by Branch",
+      "description": "Test that the LLM can use VLOOKUP to fill officer names from a lookup table based on branch names"
+    },
+    "7efeb4b1-3d19-4762-b163-63328d66303b": {
+      "name": "Fill Sequence Numbers as No. #",
+      "description": "Test that the LLM can fill a Seq No. column with sequential numbers formatted as 'No. #'"
+    },
+    "8b1ce5f2-59d2-4dcc-b0b0-666a714b9a14": {
+      "name": "Highlight Weekend Days in Calendar",
+      "description": "Test that the LLM can highlight Saturday and Sunday cells with red background in a calendar spreadsheet"
+    },
+    "a01fbce3-2793-461f-ab86-43680ccbae25": {
+      "name": "Change Decimal Separator to Comma",
+      "description": "Test that the LLM can replace dot decimal separators with commas for localized number formatting"
+    },
+    "a9f325aa-8c05-4e4f-8341-9e4358565f4f": {
+      "name": "Clean and Title-Case Movie Titles",
+      "description": "Test that the LLM can clean movie titles by removing extra whitespace and capitalizing each word"
+    },
+    "aa3a8974-2e85-438b-b29e-a64df44deb4b": {
+      "name": "Resize Cells to Fit Page and Export PDF",
+      "description": "Test that the LLM can resize cells to fit one page and export the spreadsheet as a PDF"
+    },
+    "abed40dc-063f-4598-8ba5-9fe749c0615d": {
+      "name": "Extract Unique Names from Duplicates",
+      "description": "Test that the LLM can extract unique names from a column with duplicates preserving original order"
+    },
+    "d681960f-7bc3-4286-9913-a8812ba3261a": {
+      "name": "Assign Student Grades Using Scale Table",
+      "description": "Test that the LLM can assign letter grades to students based on a grading scale lookup table"
+    },
+    "eb03d19a-b88d-4de4-8a64-ca0ac66f426b": {
+      "name": "Transpose Table to New Location",
+      "description": "Test that the LLM can transpose a table range and paste it at a specified cell location"
+    },
+    "ecb0df7a-4e8d-4a03-b162-053391d3afaf": {
+      "name": "Add Data Validation Dropdown List",
+      "description": "Test that the LLM can add data validation with a dropdown list of Pass/Fail/Held to a column"
+    },
+    "f9584479-3d0d-4c79-affa-9ad7afdd8850": {
+      "name": "Fill Missing Total Rows and Columns",
+      "description": "Test that the LLM can fill in missing rows and columns that show total values in a sales table"
+    }
+  },
+  "libreoffice_impress": {
+    "04578141-1d42-4146-b9cf-6fab4ce5fd74": {
+      "name": "Set Textbox Text Colors on Slide 1",
+      "description": "Test that the LLM can change text colors in three textboxes to yellow, red, and green on slide 1"
+    },
+    "05dd4c1d-c489-4c85-8389-a7836c4f0567": {
+      "name": "Align Text on Multiple Slides",
+      "description": "Test that the LLM can set text alignment to right on slide 3, center on slide 4, and left on slide 5"
+    },
+    "08aced46-45a2-48d7-993b-ed3fb5b32302": {
+      "name": "Add Right-Aligned Title to Slide 2",
+      "description": "Test that the LLM can add a right-aligned title named 'Note' to slide 2"
+    },
+    "0a211154-fda0-48d0-9274-eaac4ce5486d": {
+      "name": "Set Background for Slides with People Photos",
+      "description": "Test that the LLM can set yellow background on slides containing real people images"
+    },
+    "0f84bef9-9790-432e-92b7-eece357603fb": {
+      "name": "Disable Presenter Console for Single Monitor",
+      "description": "Test that the LLM can disable the multi-display presenter console so only one monitor shows the presentation"
+    },
+    "15aece23-a215-4579-91b4-69eec72e18da": {
+      "name": "Move Title to Bottom of Slide 2",
+      "description": "Test that the LLM can reposition the title of page 2 to the bottom of the slide"
+    },
+    "21760ecb-8f62-40d2-8d85-0cee5725cb72": {
+      "name": "Add Dissolve Transition to First Slide",
+      "description": "Test that the LLM can add a dissolve slide transition to the first page of a presentation"
+    },
+    "2b94c692-6abb-48ae-ab0b-b3e8a19cb340": {
+      "name": "Move Image to Right Side on Slide 2",
+      "description": "Test that the LLM can reposition an image to the right side of slide 2"
+    },
+    "2cd43775-7085-45d8-89fa-9e35c0a915cf": {
+      "name": "Enable Auto-Save Every 3 Minutes",
+      "description": "Test that the LLM can configure LibreOffice Impress auto-save interval to 3 minutes"
+    },
+    "3161d64e-3120-47b4-aaad-6a764a92493b": {
+      "name": "Set Font Sizes on Slide 14",
+      "description": "Test that the LLM can set the first textbox font to 60pt and the second to 28pt on slide 14"
+    },
+    "358aa0a7-6677-453f-ae35-e440f004c31e": {
+      "name": "Standardize Font Across All Text Boxes",
+      "description": "Test that the LLM can change all text box fonts in a presentation to Liberation Sans Narrow"
+    },
+    "39be0d19-634d-4475-8768-09c130f5425d": {
+      "name": "Insert Table on Features Slide",
+      "description": "Test that the LLM can insert a 5-row by 2-column table in the Features slide"
+    },
+    "3b27600c-3668-4abd-8f84-7bcdebbccbdb": {
+      "name": "Set Blue Background on All Slides",
+      "description": "Test that the LLM can change the background color of all slides to blue"
+    },
+    "455d3c66-7dc6-4537-a39a-36d3e9119df7": {
+      "name": "Export Impress File to PNG",
+      "description": "Test that the LLM can export an Impress presentation to a PNG image file saved as res.png on the Desktop"
+    },
+    "4ed5abd0-8b5d-47bd-839f-cacfa15ca37a": {
+      "name": "Set Title Color Black and Underline",
+      "description": "Test that the LLM can set titles on slides 2, 3, and 5 to black color and underline them"
+    },
+    "550ce7e7-747b-495f-b122-acdc4d0b8e54": {
+      "name": "Add Strikethrough to Completed To-Do Items",
+      "description": "Test that the LLM can add strikethrough formatting to the first and second lines of a to-do list"
+    },
+    "57667013-ea97-417c-9dce-2713091e6e2a": {
+      "name": "Set All Textbox Font Color to Yellow on Slide 5",
+      "description": "Test that the LLM can change the font color of all textboxes on slide 5 to exactly yellow"
+    },
+    "5c1a6c3d-c1b3-47cb-9b01-8d1b7544ffa1": {
+      "name": "Bold Text and Format Title on Slide 1",
+      "description": "Test that the LLM can bold all text on slide 1, set title to 44pt, and underline it"
+    },
+    "5cfb9197-e72b-454b-900e-c06b0c802b40": {
+      "name": "Edit Table Header Row on Slide 4",
+      "description": "Test that the LLM can change the first row of a table on slide 4 to T1, T2, T3, T4"
+    },
+    "5d901039-a89c-4bfb-967b-bf66f4df075e": {
+      "name": "Stretch Image to Fill Slide as Cover Page",
+      "description": "Test that the LLM can stretch an image to fill the entire first slide while keeping proportions"
+    },
+    "70bca0cc-c117-427e-b0be-4df7299ebeb6": {
+      "name": "Match Slide 2 Background to Title Color",
+      "description": "Test that the LLM can set the background color of slide 2 to match its title's font color"
+    },
+    "73c99fb9-f828-43ce-b87a-01dc07faa224": {
+      "name": "Add Text to Content Textbox on Slide 2",
+      "description": "Test that the LLM can add 'Page 1' text into the content textbox on slide 2"
+    },
+    "7ae48c60-f143-4119-b659-15b8f485eb9a": {
+      "name": "Change Picture Heights on Multiple Slides",
+      "description": "Test that the LLM can set picture heights to 20cm, 30cm, and 25cm on slides 3, 4, and 6"
+    },
+    "7dbc52a6-11e0-4c9a-a2cb-1e36cfda80d8": {
+      "name": "Add Note from Title and Bold Title on Page 2",
+      "description": "Test that the LLM can add a speaker note matching the title on page 2 and bold the title font"
+    },
+    "841b50aa-df53-47bd-a73a-22d3a9f73160": {
+      "name": "Add Note and Set Purple Background",
+      "description": "Test that the LLM can add a speaker note 'APP' and set the slide background to purple"
+    },
+    "8979838c-54a5-4454-a2b8-3d135a1a5c8f": {
+      "name": "Set Purple Background and Copy Title to Note",
+      "description": "Test that the LLM can set the slide background to purple and add the title text as a speaker note"
+    },
+    "986fc832-6af2-417c-8845-9272b3a1528b": {
+      "name": "Underline Body Text and Set Dark Red 2 Color",
+      "description": "Test that the LLM can underline slide body text and change all text to dark red 2"
+    },
+    "9cf05d24-6bd9-4dae-8967-f67d88f5d38a": {
+      "name": "Set Green Background on Slide 1",
+      "description": "Test that the LLM can navigate to slide 1 and set its background color to green"
+    },
+    "9ec204e4-f0a3-42f8-8458-b772a6797cab": {
+      "name": "Duplicate Last Two Slides in Alternating Order",
+      "description": "Test that the LLM can duplicate the last two slides and insert copies in alternating A, B, A, B order"
+    },
+    "a097acff-6266-4291-9fbd-137af7ecd439": {
+      "name": "Save Slides as pre.pptx on Desktop",
+      "description": "Test that the LLM can save an open Impress presentation as pre.pptx on the Desktop"
+    },
+    "a434992a-89df-4577-925c-0c58b747f0f4": {
+      "name": "Change Content Font Size, Color, and Background",
+      "description": "Test that the LLM can set content font to size 12 with orange color and change slide background to red"
+    },
+    "a53f80cd-4a90-4490-8310-097b011433f6": {
+      "name": "Format Titles and Delete Personal Info",
+      "description": "Test that the LLM can set title color to black and bold on slides 2-3, and delete personal info on slide 4"
+    },
+    "a669ef01-ded5-4099-9ea9-25e99b569840": {
+      "name": "Indent Text Without Bullet on Page 3",
+      "description": "Test that the LLM can indent a line to match other items while removing its bullet point"
+    },
+    "ac1b39ff-ee4d-4483-abce-c117e98942f0": {
+      "name": "Move Table to Bottom of Slide 3",
+      "description": "Test that the LLM can reposition a table to the bottom of slide 3"
+    },
+    "ac9bb6cb-1888-43ab-81e4-a98a547918cd": {
+      "name": "Change Slide Number Color to Red",
+      "description": "Test that the LLM can change the color of slide numbers to red across all slides"
+    },
+    "af23762e-2bfd-4a1d-aada-20fa8de9ce07": {
+      "name": "Create Summary Slide Using Impress Feature",
+      "description": "Test that the LLM can use the Impress Summary Slide feature to generate a summary of all slide titles"
+    },
+    "af2d657a-e6b3-4c6a-9f67-9e3ed015974c": {
+      "name": "Insert Title with Specific Font on Slide 1",
+      "description": "Test that the LLM can add title 'Happy Family' with Microsoft JhengHei font on the first slide"
+    },
+    "b8adbc24-cef2-4b15-99d5-ecbe7ff445eb": {
+      "name": "Add Matching Title to Slide 2",
+      "description": "Test that the LLM can add 'Online Shopping' as slide 2 title with same style as slide 1"
+    },
+    "bf4e9888-f10f-47af-8dba-76413038b73c": {
+      "name": "Create Photo Album Presentation from Images",
+      "description": "Test that the LLM can create 6 blank slides with one image per slide in order"
+    },
+    "c59742c0-4323-4b9d-8a02-723c251deaa0": {
+      "name": "Insert Audio into Presentation",
+      "description": "Test that the LLM can add an MP3 audio file into a LibreOffice Impress presentation"
+    },
+    "c82632a4-56b6-4db4-9dd1-3820ee3388e4": {
+      "name": "Add 1cm x 1cm Image to Slide 2",
+      "description": "Test that the LLM can insert an image on slide 2 sized exactly 1cm by 1cm"
+    },
+    "ce88f674-ab7a-43da-9201-468d38539e4a": {
+      "name": "Change Slide Orientation to Portrait",
+      "description": "Test that the LLM can change the slide orientation from landscape to portrait"
+    },
+    "e4ef0baf-4b52-4590-a47e-d4d464cca2d7": {
+      "name": "Set Picture Height and Textbox Font Size",
+      "description": "Test that the LLM can set picture height to 20cm on slide 3 and textbox font size to 40pt on slide 6"
+    },
+    "ed43c15f-00cb-4054-9c95-62c880865d68": {
+      "name": "Move Picture to Top and Underline Textboxes",
+      "description": "Test that the LLM can move the picture on page 2 to slide top and underline textboxes on slides 1 and 2"
+    },
+    "edb61b14-a854-4bf5-a075-c8075c11293a": {
+      "name": "Change Last Slide Font to Times New Roman",
+      "description": "Test that the LLM can change all text on the last slide to Times New Roman font"
+    },
+    "ef9d12bd-bcee-4ba0-a40e-918400f43ddf": {
+      "name": "Restore Left Slide Panel",
+      "description": "Test that the LLM can restore the closed slide panel on the left side of LibreOffice Impress"
+    },
+    "f23acfd2-c485-4b7c-a1e7-d4303ddfe864": {
+      "name": "Add Bullet Points to Slide Content",
+      "description": "Test that the LLM can add bullet point formatting to the content text of a slide"
+    }
+  },
+  "libreoffice_writer": {
+    "0810415c-bde4-4443-9047-d5f70165a697": {
+      "name": "Set Double Line Spacing for First Two Paragraphs",
+      "description": "Test that the LLM can change the line spacing of the first two paragraphs to double in a Writer document"
+    },
+    "0a0faba3-5580-44df-965d-f562a99b291c": {
+      "name": "Split Sentence Alignment with Tabstops",
+      "description": "Test that the LLM can use tabstops to left-align the first three words and right-align the rest"
+    },
+    "0b17a146-2934-46c7-8727-73ff6b6483e8": {
+      "name": "Format H2O with Subscript",
+      "description": "Test that the LLM can change the '2' in 'H2O' to a subscript in a Writer document"
+    },
+    "0e47de2a-32e0-456c-a366-8c607ef7a9d2": {
+      "name": "Add Page Numbers to Footer Bottom Left",
+      "description": "Test that the LLM can add page numbers at the bottom left of every page in a Writer document"
+    },
+    "0e763496-b6bb-4508-a427-fad0b6c3e195": {
+      "name": "Change Font to Times New Roman Throughout",
+      "description": "Test that the LLM can change the font to Times New Roman for the entire text of a Writer document"
+    },
+    "3ef2b351-8a84-4ff2-8724-d86eae9b842e": {
+      "name": "Center Align Document Heading",
+      "description": "Test that the LLM can center-align the heading in a LibreOffice Writer document"
+    },
+    "4bcb1253-a636-4df4-8cb0-a35c04dfef31": {
+      "name": "Export Document to PDF",
+      "description": "Test that the LLM can export the current Writer document to PDF format while keeping the same file name"
+    },
+    "66399b0d-8fda-4618-95c4-bfc6191617e9": {
+      "name": "Insert 7x5 Empty Table at Cursor",
+      "description": "Test that the LLM can insert a 7-column by 5-row empty table at the cursor position in a Writer document"
+    },
+    "6a33f9b9-0a56-4844-9c3f-96ec3ffb3ba2": {
+      "name": "Remove All Yellow Highlighting",
+      "description": "Test that the LLM can remove all yellow highlighting from words in a Writer document"
+    },
+    "6ada715d-3aae-4a32-a6a7-429b2e43fb93": {
+      "name": "Insert Image from Desktop into Document",
+      "description": "Test that the LLM can insert a screenshot from the desktop at the cursor position in a Writer document"
+    },
+    "6f81754e-285d-4ce0-b59e-af7edb02d108": {
+      "name": "Remove Duplicate Train IDs from Records",
+      "description": "Test that the LLM can remove duplicate train ID lines from a structured data document in Writer"
+    },
+    "72b810ef-4156-4d09-8f08-a0cf57e7cefe": {
+      "name": "Apply Strikethrough to Last Paragraph",
+      "description": "Test that the LLM can apply strikethrough formatting to all words in the last paragraph"
+    },
+    "8472fece-c7dd-4241-8d65-9b3cd1a0b568": {
+      "name": "Color Words by Vowel/Consonant Start",
+      "description": "Test that the LLM can color words red if they start with a vowel and blue if they start with a consonant"
+    },
+    "88fe4b2d-3040-4c70-9a70-546a47764b48": {
+      "name": "Separate Sentences with Empty Lines",
+      "description": "Test that the LLM can separate each sentence in the first paragraph by inserting an empty line after each one"
+    },
+    "936321ce-5236-426a-9a20-e0e3c5dc536f": {
+      "name": "Convert Comma-Separated Text to Table",
+      "description": "Test that the LLM can convert comma-separated text into a table in a Writer document"
+    },
+    "adf5e2c3-64c7-4644-b7b6-d2f0167927e7": {
+      "name": "Add Reference and Cross-Reference Citation",
+      "description": "Test that the LLM can add a citation to the reference list and insert a cross-reference in the document body"
+    },
+    "b21acd93-60fd-4127-8a43-2f5178f4a830": {
+      "name": "Set Mixed Line Spacing Across Paragraphs",
+      "description": "Test that the LLM can set single, double, and 1.5 line spacing for intro, body, and conclusion paragraphs"
+    },
+    "bb8ccc78-479f-4a2f-a71e-d565e439436b": {
+      "name": "Share Document for Real-Time Collaboration",
+      "description": "Test that the LLM can handle an infeasible request to share a Writer document for real-time collaborative editing"
+    },
+    "d53ff5ee-3b1a-431e-b2be-30ed2673079b": {
+      "name": "Convert All Uppercase to Lowercase",
+      "description": "Test that the LLM can convert all uppercase text to lowercase throughout a Writer document"
+    },
+    "e246f6d8-78d7-44ac-b668-fcf47946cb50": {
+      "name": "Increase Font Size of Italic Words to 14",
+      "description": "Test that the LLM can change the font size of all italicized words from 12 to 14"
+    },
+    "e528b65e-1107-4b8c-8988-490e4fece599": {
+      "name": "Capitalize First Letter of Each Word",
+      "description": "Test that the LLM can capitalize the first letter of each word in a Writer document"
+    },
+    "ecc2413d-8a48-416e-a3a2-d30106ca36cb": {
+      "name": "Insert Blank Page After Current Page",
+      "description": "Test that the LLM can insert a blank page right after the current page in a Writer document"
+    },
+    "f178a4a9-d090-4b56-bc4c-4b72a61a035d": {
+      "name": "Set Times New Roman as Default Font",
+      "description": "Test that the LLM can make Times New Roman the default font in LibreOffice Writer settings"
+    }
+  },
+  "multi_apps": {
+    "00fa164e-2612-4439-992e-157d019a8436": {
+      "name": "Insert GPT-4 Results Table into Writer Report",
+      "description": "Test that the LLM can extract GPT-4 results from an Excel spreadsheet and insert the table into a Writer report"
+    },
+    "02ce9a50-7af2-47ed-8596-af0c230501f8": {
+      "name": "Run ls Command and Save Terminal Screenshot",
+      "description": "Test that the LLM can execute the ls command in a terminal and save a screenshot of the output as a PNG file"
+    },
+    "09a37c51-e625-49f4-a514-20a773797a8a": {
+      "name": "Edit Image per Docx Instructions in GIMP",
+      "description": "Test that the LLM can read image editing requirements from a Writer document and apply modifications in GIMP"
+    },
+    "0c825995-5b70-4526-b663-113f4c999dd2": {
+      "name": "Extract PDF Section to Google Doc",
+      "description": "Test that the LLM can extract the Introduction section from a PDF and compile it into a new Google Doc"
+    },
+    "0e5303d4-8820-42f6-b18d-daf7e633de21": {
+      "name": "Download CS50 Python Lecture Slides",
+      "description": "Test that the LLM can navigate a course website and download all remaining weekly lecture slide PDFs"
+    },
+    "185f29bd-5da0-40a6-b69c-ba7f4e0324ef": {
+      "name": "Fill PDF Evaluation Forms from Excel Data",
+      "description": "Test that the LLM can transfer employee performance data from an Excel spreadsheet into PDF evaluation forms"
+    },
+    "1f18aa87-af6f-41ef-9853-cdb8f32ebdea": {
+      "name": "Complete Grammar Test Answer Document",
+      "description": "Test that the LLM can read grammar test questions from multiple docx files and write the answers"
+    },
+    "20236825-b5df-46e7-89bf-62e1d640a897": {
+      "name": "Implement Bubble Sort from Tutorial Doc",
+      "description": "Test that the LLM can read a bubble sort tutorial document and complete the Python function implementation"
+    },
+    "227d2f97-562b-4ccb-ae47-a5ec9e142fbb": {
+      "name": "Copy GIMP XCF Image to Writer Document",
+      "description": "Test that the LLM can copy an image from a GIMP XCF file and paste it into a new Writer document"
+    },
+    "22a4636f-8179-4357-8e87-d1743ece1f81": {
+      "name": "Convert Docx to PDF and Upload to Google Drive",
+      "description": "Test that the LLM can convert a Word document to PDF format and upload it to a specific Google Drive folder"
+    },
+    "236833a3-5704-47fc-888c-4f298f09f799": {
+      "name": "Record HuggingFace Daily Papers to Docx",
+      "description": "Test that the LLM can find daily papers on HuggingFace for a specific date and record their meta information"
+    },
+    "2373b66a-092d-44cb-bfd7-82e86e7a3b4d": {
+      "name": "Collect CPU Stats with sar to Report File",
+      "description": "Test that the LLM can use the sar command to collect CPU statistics every second for 30 seconds"
+    },
+    "26150609-0da3-4a7d-8868-0faf9c5f01bb": {
+      "name": "Fix Snake Game Food Eating Bug",
+      "description": "Test that the LLM can debug a Python Snake game so the snake can properly eat food"
+    },
+    "26660ad1-6ebb-4f59-8cba-a8432dfe8d38": {
+      "name": "Run Speed Test and Save Results to File",
+      "description": "Test that the LLM can run a network speed test and save the ping, download, and upload results"
+    },
+    "2b9493d7-49b8-493a-a71b-56cd1f4d6908": {
+      "name": "Force Quit LibreOffice Writer from Terminal",
+      "description": "Test that the LLM can force quit a frozen LibreOffice Writer application using the command line"
+    },
+    "2c1ebcd7-9c6d-4c9a-afad-900e381ecd5e": {
+      "name": "Fix APA 7th Edition References in Case Study",
+      "description": "Test that the LLM can review and correct the references section to comply with APA 7th edition formatting"
+    },
+    "2c9fc0de-3ee7-45e1-a5df-c86206ad78b5": {
+      "name": "Git Add, Commit, and Push to Origin Main",
+      "description": "Test that the LLM can stage changes, commit with a specific message, and push to the origin main branch"
+    },
+    "2fe4b718-3bd7-46ec-bdce-b184f5653624": {
+      "name": "Create Animated GIF from Video Using VLC/GIMP",
+      "description": "Test that the LLM can extract a 5-second clip from a video and create an animated GIF"
+    },
+    "337d318b-aa07-4f4f-b763-89d9a2dd013f": {
+      "name": "Cross-Check Invoices with Bank Statements",
+      "description": "Test that the LLM can compare invoices against bank statements and identify discrepancies"
+    },
+    "36037439-2044-4b50-b9d1-875b5a332143": {
+      "name": "Find Corresponding Author on Google Scholar",
+      "description": "Test that the LLM can identify the corresponding author of a PDF paper and navigate to their Google Scholar profile"
+    },
+    "3680a5ee-6870-426a-a997-eba929a0d25c": {
+      "name": "Merge Spreadsheet Columns via Command Line",
+      "description": "Test that the LLM can merge two single-column files into one CSV by concatenating rows via command line"
+    },
+    "3a93cae4-ad3e-403e-8c12-65303b271818": {
+      "name": "Add Lecture Slot to Course Timetable",
+      "description": "Test that the LLM can add a two-hour Wednesday 12 PM lecture slot to a weekly course timetable spreadsheet"
+    },
+    "3c8f201a-009d-4bbe-8b65-a6f8b35bb57f": {
+      "name": "Download and Compress Image Under 600KB",
+      "description": "Test that the LLM can download an image from a URL and use GIMP to compress it to under 600KB"
+    },
+    "3e3fc409-bff3-4905-bf16-c968eee3f807": {
+      "name": "Find Unseen IMDB Top 30 Movies",
+      "description": "Test that the LLM can compare a personal movie list with IMDB Top 30 and create a sheet of unseen films"
+    },
+    "3f05f3b9-29ba-4b6b-95aa-2204697ffc06": {
+      "name": "Fix MP3 Metadata Title and Artist Tags",
+      "description": "Test that the LLM can populate blank MP3 metadata from filenames using an audio tagging tool"
+    },
+    "415ef462-bed3-493a-ac36-ca8c6d23bf1b": {
+      "name": "Extract Email Invoice and Update Tally Book",
+      "description": "Test that the LLM can extract a PDF invoice from Thunderbird email and update a tally spreadsheet"
+    },
+    "42d25c08-fb87-4927-8b65-93631280a26f": {
+      "name": "Convert TXT Novel to EPUB Format",
+      "description": "Test that the LLM can use an online tool to convert text files of a web novel into EPUB format"
+    },
+    "42f4d1c7-4521-4161-b646-0a8934e36081": {
+      "name": "Install Lisp Extension and Resize Image via Script",
+      "description": "Test that the LLM can install a VS Code Lisp extension and write a GIMP Script-Fu script to resize an image"
+    },
+    "46407397-a7d5-4c6b-92c6-dbe038b1457b": {
+      "name": "Export Email Docx Images to Google Drive",
+      "description": "Test that the LLM can extract images from a docx email attachment and upload them as PNGs to Google Drive"
+    },
+    "47f7c0ce-a5fb-4100-a5e6-65cd0e7429e5": {
+      "name": "Set Video Frame as Slide Background",
+      "description": "Test that the LLM can extract a frame from a video in VLC and set it as a slide background in Impress"
+    },
+    "48c46dc7-fe04-4505-ade7-723cba1aa6f6": {
+      "name": "Set Up Dev Workspace with Multiple Apps",
+      "description": "Test that the LLM can open a project directory in terminal and file manager, plus GitHub and docs in Chrome"
+    },
+    "48d05431-6cd5-4e76-82eb-12b60d823f7d": {
+      "name": "Fix conda Command Not Found Error",
+      "description": "Test that the LLM can resolve a conda command not found error by properly initializing conda"
+    },
+    "4c26e3f3-3a14-4d86-b44a-d3cedebbb487": {
+      "name": "Enhance Slide Image Brightness in GIMP",
+      "description": "Test that the LLM can extract a dim image from a presentation slide and enhance its brightness"
+    },
+    "4e9f0faf-2ecc-4ae8-a804-28c9a75d1ddc": {
+      "name": "Extract Invoice Table from Google Drive to Excel",
+      "description": "Test that the LLM can extract table data from a PDF invoice in Google Drive and export it to xlsx"
+    },
+    "510f64c8-9bcc-4be1-8d30-638705850618": {
+      "name": "Start VS Code in Project Folder from Terminal",
+      "description": "Test that the LLM can launch VS Code in a specific project directory using the terminal"
+    },
+    "51f5801c-18b3-4f25-b0c3-02f85507a078": {
+      "name": "Extract Presenter Notes from Impress to Docx",
+      "description": "Test that the LLM can extract all speaker notes from an Impress presentation and save them as a Word document"
+    },
+    "58565672-7bfe-48ab-b828-db349231de6b": {
+      "name": "Open Email Link in New Chrome Tab",
+      "description": "Test that the LLM can find the first link in the latest email and open it in a new Chrome tab"
+    },
+    "5990457f-2adb-467b-a4af-5c857c92d762": {
+      "name": "Add Yann LeCun Scholar Data to Spreadsheet",
+      "description": "Test that the LLM can look up Yann LeCun on Google Scholar and append his citation data to an Excel file"
+    },
+    "5bc63fb9-276a-4439-a7c1-9dc76401737f": {
+      "name": "Filter Gemini Responses and Highlight Iliad",
+      "description": "Test that the LLM can extract Gemini model responses from a JSON file and highlight the word Iliad"
+    },
+    "5df7b33a-9f77-4101-823e-02f863e1c1ae": {
+      "name": "Split PDF Book into Chapter Files",
+      "description": "Test that the LLM can divide a large PDF book into separate PDF files for each chapter"
+    },
+    "67890eb6-6ce5-4c00-9e3d-fb4972699b06": {
+      "name": "Record ACL Best Paper Awards 2019-2022",
+      "description": "Test that the LLM can find ACL best long paper awards and record title, year, authors, and PDF link"
+    },
+    "68a25bd4-59c7-4f4d-975e-da0c8509c848": {
+      "name": "Download Paper and Find Citing Paper",
+      "description": "Test that the LLM can download the first paper from a list and identify which other listed paper cites it"
+    },
+    "69acbb55-d945-4927-a87b-8480e1a5bb7e": {
+      "name": "Set Up Instructor-Embedding Python Environment",
+      "description": "Test that the LLM can clone and configure the instructor-embedding project environment"
+    },
+    "6d72aad6-187a-4392-a4c4-ed87269c51cf": {
+      "name": "Convert Impress to Video (Infeasible)",
+      "description": "Test that the LLM recognizes that converting an Impress presentation to video using only built-in features is infeasible"
+    },
+    "6f4073b8-d8ea-4ade-8a18-c5d1d5d5aa9a": {
+      "name": "Fill in ML Conference Cities 2013-2019",
+      "description": "Test that the LLM can research and fill in the meeting cities for three ML conferences in a spreadsheet"
+    },
+    "716a6079-22da-47f1-ba73-c9d58f986a38": {
+      "name": "Find File Path and Copy to Clipboard",
+      "description": "Test that the LLM can locate a file named secret.docx and copy its full path to the clipboard"
+    },
+    "74d5859f-ed66-4d3e-aa0e-93d7a592ce41": {
+      "name": "Scaffold Web Extension Project via Web Tool",
+      "description": "Test that the LLM can use a web tool to generate a browser extension project and unzip it locally"
+    },
+    "778efd0a-153f-4842-9214-f05fc176b877": {
+      "name": "Extract Audio from Video as Slide Music",
+      "description": "Test that the LLM can extract audio from a VLC video and set it as background music for an Impress slideshow"
+    },
+    "788b3701-3ec9-4b67-b679-418bfa726c22": {
+      "name": "Download Next Novel Chapter from GitHub",
+      "description": "Test that the LLM can identify and download the next unread chapter of a novel from a GitHub repository"
+    },
+    "78aed49a-a710-4321-a793-b611a7c5b56b": {
+      "name": "Save Email Attachments to Drive and Move Email",
+      "description": "Test that the LLM can save email attachments to Google Drive and move the email to a different folder"
+    },
+    "7e287123-70ca-47b9-8521-47db09b69b14": {
+      "name": "Compile GRF CS Pass Rates into Spreadsheet",
+      "description": "Test that the LLM can extract GRF application pass rates for CS departments from PDF documents"
+    },
+    "7f35355e-02a6-45b5-b140-f0be698bcf85": {
+      "name": "Export Table to CSV and Compute Median Price",
+      "description": "Test that the LLM can export a spreadsheet to CSV and write code to compute the median price"
+    },
+    "7ff48d5b-2df2-49da-b500-a5150ffc7f18": {
+      "name": "Find Visa Self-Service Locations in Shenzhen",
+      "description": "Test that the LLM can find 5 addresses of 24-hour visa self-service machines in Futian District"
+    },
+    "81c425f5-78f3-4771-afd6-3d2973825947": {
+      "name": "Transfer Calc Data to Writer Table",
+      "description": "Test that the LLM can copy spreadsheet data from LibreOffice Calc into a Writer table"
+    },
+    "82e3c869-49f6-4305-a7ce-f3e64a0618e7": {
+      "name": "Sort Presenter Photos and Create ZIP",
+      "description": "Test that the LLM can identify photos featuring a specific presenter and compress them into a ZIP file"
+    },
+    "869de13e-bef9-4b91-ba51-f6708c40b096": {
+      "name": "Organize Desktop Files by Category",
+      "description": "Test that the LLM can classify desktop files into academic papers, coding projects, and miscellaneous categories"
+    },
+    "873cafdd-a581-47f6-8b33-b9696ddb7b05": {
+      "name": "Install Chrome Plugins from Docx List",
+      "description": "Test that the LLM can read a list of recommended Chrome plugins from a document and install them"
+    },
+    "881deb30-9549-4583-a841-8270c65f2a17": {
+      "name": "Compile ECS School Pass Rates by Year",
+      "description": "Test that the LLM can extract Early Career Scheme pass rates from PDF files and organize them in a spreadsheet"
+    },
+    "897e3b53-5d4d-444b-85cb-2cdc8a97d903": {
+      "name": "Convert Docx to PDF and Store in Google Drive",
+      "description": "Test that the LLM can convert a Writer document to PDF and upload it to a specific Google Drive folder"
+    },
+    "8df7e444-8e06-4f93-8a1a-c5c974269d82": {
+      "name": "Prepare Essay Submission per Guidelines",
+      "description": "Test that the LLM can read submission guidelines and organize essay files for submission accordingly"
+    },
+    "8e116af7-7db7-4e35-a68b-b0939c066c78": {
+      "name": "Update Bookkeeping from Receipt Images/PDFs",
+      "description": "Test that the LLM can read transaction details from receipt images and PDFs and update a bookkeeping spreadsheet"
+    },
+    "91190194-f406-4cd6-b3f9-c43fac942b22": {
+      "name": "Launch GIMP from CLI and Crop Top 20%",
+      "description": "Test that the LLM can launch GIMP from the command line and crop the top 20% of an image for use as an avatar"
+    },
+    "9219480b-3aed-47fc-8bac-d2cffc5849f7": {
+      "name": "Fix Tetris Game Rotation Crash Bug",
+      "description": "Test that the LLM can debug a Python Tetris game to fix a crash when rotating pieces"
+    },
+    "937087b6-f668-4ba6-9110-60682ee33441": {
+      "name": "Set VLC as Default Video Player on Ubuntu",
+      "description": "Test that the LLM can set VLC as the default video player application on an Ubuntu system"
+    },
+    "98e8e339-5f91-4ed2-b2b2-12647cb134f4": {
+      "name": "Merge Project TXT Files into Docx at Font 10",
+      "description": "Test that the LLM can merge all .txt files from a project into a single Writer document with font size 10"
+    },
+    "9f3bb592-209d-43bc-bb47-d77d9df56504": {
+      "name": "Remove Subtitles from Video and Export SRT",
+      "description": "Test that the LLM can remove embedded subtitles from a video and export them as a separate SRT file"
+    },
+    "a0b9dc9c-fc07-4a88-8c5d-5e3ecad91bcb": {
+      "name": "Backup Thunderbird Emails to Google Drive",
+      "description": "Test that the LLM can export Thunderbird emails as .eml files and upload them to Google Drive"
+    },
+    "a503b07f-9119-456b-b75d-f5146737d24f": {
+      "name": "Convert Receipt Image to PDF",
+      "description": "Test that the LLM can convert a JPG receipt image to PDF format and save it on the desktop"
+    },
+    "a74b607e-6bb5-4ea8-8a7c-5d97c7bbcd2a": {
+      "name": "Install Unpacked Chrome Extension Manually",
+      "description": "Test that the LLM can install a locally developed Chrome extension by loading it as unpacked"
+    },
+    "a82b78bb-7fde-4cb3-94a4-035baf10bcf0": {
+      "name": "Bookmark Paper Authors' Webpages in Chrome",
+      "description": "Test that the LLM can find personal webpages of specific paper authors and add them to Chrome bookmarks"
+    },
+    "aad10cd7-9337-4b62-b704-a857848cedf2": {
+      "name": "Save Apple HIG Blog Content as Docx",
+      "description": "Test that the LLM can extract the main content from an Apple developer blog page and save it as a Word document"
+    },
+    "acb0f96b-e27c-44d8-b55f-7cb76609dfcd": {
+      "name": "Clone GitHub Repository to Local Directory",
+      "description": "Test that the LLM can clone the instructor-embedding GitHub repository to the user home directory"
+    },
+    "aceb0368-56b8-4073-b70e-3dc9aee184e0": {
+      "name": "Grade Multiple-Choice English Exams",
+      "description": "Test that the LLM can compare student exam answers with an answer key and record detailed scores"
+    },
+    "b337d106-053f-4d37-8da0-7f9c4043a66b": {
+      "name": "Enable Default Line Numbers in Vim",
+      "description": "Test that the LLM can search for a tutorial and configure Vim to show absolute line numbers by default"
+    },
+    "b5062e3e-641c-4e3a-907b-ac864d2e7652": {
+      "name": "Extract First Authors' Info from Papers to Excel",
+      "description": "Test that the LLM can extract name, email, and affiliation of first authors from PDFs into a spreadsheet"
+    },
+    "b52b40a5-ad70-4c53-b5b0-5650a8387052": {
+      "name": "Merge Email PDF Attachments to Google Drive",
+      "description": "Test that the LLM can merge PDF attachments from Thunderbird email into one file and upload to Google Drive"
+    },
+    "bb83cab4-e5c7-42c7-a67b-e46068032b86": {
+      "name": "Export Impress Slide Text to Writer Document",
+      "description": "Test that the LLM can extract all text from an Impress presentation and place it into a Writer document"
+    },
+    "bc2b57f3-686d-4ec9-87ce-edf850b7e442": {
+      "name": "Modify Spreadsheet per Reminder Document",
+      "description": "Test that the LLM can read data analysis requirements from a docx file and modify an Excel workbook accordingly"
+    },
+    "c2751594-0cd5-4088-be1b-b5f2f9ec97c4": {
+      "name": "Set Email Attachment Image as Desktop Wallpaper",
+      "description": "Test that the LLM can extract an image from a docx email attachment and set it as the desktop background"
+    },
+    "c7c1e4c3-9e92-4eba-a4b8-689953975ea4": {
+      "name": "Fill Professor Email Addresses from Homepages",
+      "description": "Test that the LLM can visit professor homepage links from a spreadsheet and fill in their email addresses"
+    },
+    "c867c42d-a52d-4a24-8ae3-f75d256b5618": {
+      "name": "Export Thunderbird Contacts to CSV and XLSX",
+      "description": "Test that the LLM can export Thunderbird address book contacts to CSV and convert to XLSX"
+    },
+    "ce2b64a2-ddc1-4f91-8c7d-a88be7121aac": {
+      "name": "Identify and Rename Mountain Photos",
+      "description": "Test that the LLM can identify mountains in photos and rename the image files to match the mountain names"
+    },
+    "d1acdb87-bb67-4f30-84aa-990e56a09c92": {
+      "name": "Look Up HK Restaurant Details via Google Maps",
+      "description": "Test that the LLM can search for Hong Kong restaurants on Google Maps and fill in addresses and contacts"
+    },
+    "d68204bf-11c1-4b13-b48b-d303c73d4bf6": {
+      "name": "Split and Rearrange Image by Warm Tones",
+      "description": "Test that the LLM can split an image into three vertical sections and rearrange them by warm tone gradient"
+    },
+    "d9b7c649-c975-4f53-88f5-940b29c47247": {
+      "name": "Extract Thunderbird Emails to Calc Report",
+      "description": "Test that the LLM can extract the latest 5 emails from Thunderbird and create a Calc report"
+    },
+    "da52d699-e8d2-4dc5-9191-a2199e0b6a9b": {
+      "name": "Find Slowest Reading Pace Book from List",
+      "description": "Test that the LLM can analyze a book reading spreadsheet to find the book with the slowest words-per-day pace"
+    },
+    "da922383-bfa4-4cd3-bbad-6bebab3d7742": {
+      "name": "Save Open Blog Pages as PDFs by Title",
+      "description": "Test that the LLM can download currently open blog articles as PDF files named by their titles"
+    },
+    "dd60633f-2c72-42ba-8547-6f2c8cb0fdb0": {
+      "name": "Extract Python Code from Karpathy GPT Colab",
+      "description": "Test that the LLM can extract all Python code and comments from a Colab notebook into a single .py file"
+    },
+    "deec51c9-3b1e-4b9e-993c-4776f20e8bb2": {
+      "name": "Find New LLM Papers from ArXiv Daily",
+      "description": "Test that the LLM can find new foundation language model papers from a specific ArXiv daily date"
+    },
+    "df67aebb-fb3a-44fd-b75b-51b6012df509": {
+      "name": "Export DBLP BibTeX for Referenced Papers",
+      "description": "Test that the LLM can look up papers from a docx reference list on DBLP and export their BibTeX entries"
+    },
+    "e135df7c-7687-4ac0-a5f0-76b74438b53e": {
+      "name": "Convert XLSX to HTML and View in Chrome",
+      "description": "Test that the LLM can convert a LibreOffice Calc spreadsheet to HTML and open it in Chrome"
+    },
+    "e1fc0df3-c8b9-4ee7-864c-d0b590d3aa56": {
+      "name": "Install LanguageTool Extension for LibreOffice",
+      "description": "Test that the LLM can install the LanguageTool grammar checking extension for LibreOffice"
+    },
+    "e2392362-125e-4f76-a2ee-524b183a3412": {
+      "name": "Edit Academic Homepage YAML Config",
+      "description": "Test that the LLM can find and edit name and email fields in a _config.yaml for an academic homepage"
+    },
+    "e8172110-ec08-421b-a6f5-842e6451911f": {
+      "name": "Extract Pixel Art Character in GIMP and Python",
+      "description": "Test that the LLM can extract a pixel art character from its background using both GIMP and a Python script"
+    },
+    "eb303e01-261e-4972-8c07-c9b4e7a4922a": {
+      "name": "Insert Speaking Notes into PowerPoint Slides",
+      "description": "Test that the LLM can read planned remarks from a document and insert them into slide notes"
+    },
+    "ee9a3c83-f437-4879-8918-be5efbb9fac7": {
+      "name": "Convert ODS to CSV via Command Line",
+      "description": "Test that the LLM can convert an open ODS file to CSV format using the command line"
+    },
+    "f5c13cdd-205c-4719-a562-348ae5cd1d91": {
+      "name": "Add Unpaid Tuition Emails to Draft Reminder",
+      "description": "Test that the LLM can cross-reference a payment record to find unpaid students and add their emails to a draft"
+    },
+    "f7dfbef3-7697-431c-883a-db8583a4e4f9": {
+      "name": "Batch Convert DOC Files to PDF via CLI",
+      "description": "Test that the LLM can convert all .doc files in a directory to PDF format using the command line"
+    },
+    "f8369178-fafe-40c2-adc4-b9b08a125456": {
+      "name": "Install Orchis GNOME Theme",
+      "description": "Test that the LLM can download and install the Orchis GTK theme from gnome-look.org"
+    },
+    "f8cfa149-d1c1-4215-8dac-4a0932bad3c2": {
+      "name": "Copy Calc Cell Value and Search in Chrome",
+      "description": "Test that the LLM can copy a specific cell value from LibreOffice Calc and search for it in Chrome"
+    },
+    "f918266a-b3e0-4914-865d-4faa564f1aef": {
+      "name": "Complete Calculator Script and Save Output",
+      "description": "Test that the LLM can complete a Python calculator script and save its execution output as a log file"
+    }
+  },
+  "os": {
+    "13584542-872b-42d8-b299-866967b5c3ef": {
+      "name": "Set Permanent Terminal Size",
+      "description": "Test that the LLM can permanently set the terminal size to 132x43 so it persists across reboots"
+    },
+    "23393935-50c7-4a86-aeea-2b78fd089c5c": {
+      "name": "Recursively Copy JPG Files to Directory",
+      "description": "Test that the LLM can recursively find all .jpg files in a photos directory tree and copy them to a separate directory"
+    },
+    "28cc3b7e-b194-4bc9-8353-d04c0f4d56d2": {
+      "name": "Set System Volume to Maximum",
+      "description": "Test that the LLM can turn the system volume up to 100% max volume"
+    },
+    "37887e8c-da15-4192-923c-08fa390a176d": {
+      "name": "Compress Old Files and Organize by Age",
+      "description": "Test that the LLM can compress files modified 30 days ago into an old_files directory and move newer files to new_files"
+    },
+    "3ce045a0-877b-42aa-8d2c-b4a863336ab8": {
+      "name": "Enlarge Screen Text for Accessibility",
+      "description": "Test that the LLM can increase text scaling or enable screen magnification to make on-screen text larger"
+    },
+    "4127319a-8b79-4410-b58a-7a151e15f3d7": {
+      "name": "Count Lines in PHP Files Recursively",
+      "description": "Test that the LLM can use a terminal command to recursively count all lines across all PHP files"
+    },
+    "4783cc41-c03c-4e1b-89b4-50658f642bd5": {
+      "name": "Copy Directory Hierarchy (Infeasible)",
+      "description": "Test that the LLM recognizes that copying a directory hierarchy with undefined shell variables is infeasible"
+    },
+    "4d117223-a354-47fb-8b45-62ab1390a95f": {
+      "name": "Change File Permissions to 644 Recursively",
+      "description": "Test that the LLM can change permissions of all regular files under the current directory tree to 644"
+    },
+    "5812b315-e7bd-4265-b51f-863c02174c28": {
+      "name": "Create Restricted SSH User",
+      "description": "Test that the LLM can create an SSH user with a specific password restricted to a designated folder"
+    },
+    "5c1075ca-bb34-46a3-a7a0-029bd7463e79": {
+      "name": "Copy Failed Notebooks Preserving Hierarchy",
+      "description": "Test that the LLM can copy all *failed.ipynb files to a fails directory while preserving the directory structure"
+    },
+    "5ced85fc-fa1a-4217-95fd-0fb530545ce2": {
+      "name": "Append HTML Break Tags to Lines",
+      "description": "Test that the LLM can append <br/> to each line of a given string and save the result to output.txt"
+    },
+    "5ea617a3-0e86-4ba6-aab2-dac9aa2e8d57": {
+      "name": "Recover Deleted File from Trash",
+      "description": "Test that the LLM can restore a deleted poster image file from the Ubuntu Trash back to the Desktop"
+    },
+    "6f56bf42-85b8-4fbb-8e06-6c44960184ba": {
+      "name": "Copy File to Multiple Directories",
+      "description": "Test that the LLM can copy a single file into each of three specified directories"
+    },
+    "94d95f96-9699-4208-98ba-3c3119edf9c2": {
+      "name": "Install Spotify",
+      "description": "Test that the LLM can install the Spotify application on an Ubuntu system"
+    },
+    "a462a795-fdc7-4b23-b689-e8b6df786b78": {
+      "name": "Switch to Nonexistent User (Infeasible)",
+      "description": "Test that the LLM recognizes user Charles does not exist and reports the task as infeasible"
+    },
+    "a4d98375-215b-4a4d-aee9-3d4370fccc41": {
+      "name": "Enable Auto-Lock on Idle",
+      "description": "Test that the LLM can enable automatic screen locking when the computer is left unattended"
+    },
+    "b3d4a89c-53f2-4d6b-8b6a-541fb5d205fa": {
+      "name": "Turn On Bluetooth (Infeasible)",
+      "description": "Test that the LLM recognizes turning on Bluetooth is infeasible in a VM without Bluetooth hardware"
+    },
+    "b6781586-6346-41cd-935a-a6b1487918fc": {
+      "name": "Set Timezone to UTC+0",
+      "description": "Test that the LLM can set the system timezone to UTC+0"
+    },
+    "bedcedc4-4d72-425e-ad62-21960b11fe0d": {
+      "name": "Disable Dim Screen When Inactive",
+      "description": "Test that the LLM can turn off the dim screen when inactive setting in system power settings"
+    },
+    "c288e301-e626-4b98-a1ab-159dcb162af5": {
+      "name": "Set Default Python to Python4 (Infeasible)",
+      "description": "Test that the LLM recognizes setting default Python to the nonexistent Python4 version is infeasible"
+    },
+    "e0df059f-28a6-4169-924f-b9623e7184cc": {
+      "name": "Rename Directory",
+      "description": "Test that the LLM can rename a directory from todo_list_Jan_1 to todo_list_Jan_2 on the Desktop"
+    },
+    "ec4e3f68-9ea4-4c18-a5c9-69f89d1178b3": {
+      "name": "Remove Vim from Favorite Apps",
+      "description": "Test that the LLM can remove Vim from the GNOME Shell favorites bar while keeping other favorites"
+    },
+    "f9be0997-4b7c-45c5-b05c-4612b44a6118": {
+      "name": "Enable Do Not Disturb Mode",
+      "description": "Test that the LLM can switch to Do Not Disturb mode by disabling notification banners on Ubuntu"
+    },
+    "fe41f596-a71b-4c2f-9b2f-9dcd40b568c3": {
+      "name": "Display Battery Percentage (Infeasible)",
+      "description": "Test that the LLM recognizes displaying battery percentage is infeasible in a VM without battery hardware"
+    }
+  },
+  "thunderbird": {
+    "08c73485-7c6d-4681-999d-919f5c32dcfa": {
+      "name": "Apply Filters to Subfolders",
+      "description": "Test that the LLM can enable automatic message filters for subfolders in Thunderbird"
+    },
+    "10a730d5-d414-4b40-b479-684bed1ae522": {
+      "name": "Enable Thunderbird Dark Mode",
+      "description": "Test that the LLM can enable a complete dark mode theme in Thunderbird for nighttime use"
+    },
+    "15c3b339-88f7-4a86-ab16-e71c58dcb01e": {
+      "name": "Add Outlook Account to Thunderbird",
+      "description": "Test that the LLM can fill in Outlook email account credentials in Thunderbird's account setup page"
+    },
+    "3f28fe4f-5d9d-4994-a456-efd78cfae1a3": {
+      "name": "Set Plain Text Email Signature",
+      "description": "Test that the LLM can configure a two-line plain text email signature in Thunderbird"
+    },
+    "3f49d2cc-f400-4e7d-90cc-9b18e401cc31": {
+      "name": "Set Up Unified Inbox",
+      "description": "Test that the LLM can enable smart/unified inbox view in Thunderbird to see all accounts in one place"
+    },
+    "5203d847-2572-4150-912a-03f062254390": {
+      "name": "Create Folder and Discount Filter",
+      "description": "Test that the LLM can create a local Promotions folder and a filter to move emails with 'discount' in subject"
+    },
+    "7b1e1ff9-bb85-49be-b01d-d6424be18cd0": {
+      "name": "Open Profile Manager Tab",
+      "description": "Test that the LLM can open the about:profiles page inside Thunderbird as a tab"
+    },
+    "9b7bc335-06b5-4cd3-9119-1a649c478509": {
+      "name": "Set Up Email Forwarding Filter",
+      "description": "Test that the LLM can create a Thunderbird filter to forward all incoming emails to another address"
+    },
+    "9bc3cc16-074a-45ac-9bdc-b2a362e1daf3": {
+      "name": "Backup Inbox Emails as EML Files",
+      "description": "Test that the LLM can export all inbox emails to a backup directory as individual .eml files"
+    },
+    "a10b69e1-6034-4a2b-93e1-571d45194f75": {
+      "name": "Create COMPANY and UNIVERSITY Folders",
+      "description": "Test that the LLM can create two local mail folders named COMPANY and UNIVERSITY in Thunderbird"
+    },
+    "a1af9f1c-50d5-4bc3-a51e-4d9b425ff638": {
+      "name": "Send-Only Email Without Incoming (Infeasible)",
+      "description": "Test that the LLM recognizes it is infeasible to set up send-only email without incoming service"
+    },
+    "d38192b0-17dc-4e1d-99c3-786d0117de77": {
+      "name": "Attach PDF to Draft Email",
+      "description": "Test that the LLM can attach an AWS bill PDF file to an existing draft email in Thunderbird"
+    },
+    "dd84e895-72fd-4023-a336-97689ded257c": {
+      "name": "Star All Emails in Bills Folder",
+      "description": "Test that the LLM can add a star to every email in the local Bills folder in Thunderbird"
+    },
+    "dfac9ee8-9bc4-4cdc-b465-4a4bfcd2f397": {
+      "name": "Remove Outlook Email Account",
+      "description": "Test that the LLM can remove the Outlook account from Thunderbird"
+    },
+    "f201fbc3-44e6-46fc-bcaa-432f9815454c": {
+      "name": "Remove Reply Quote Indentation",
+      "description": "Test that the LLM can disable the '>' character and indentation in quoted reply text"
+    }
+  },
+  "vlc": {
+    "215dfd39-f493-4bc3-a027-8a97d72c61bf": {
+      "name": "Disable VLC Splash Screen Cone Icon",
+      "description": "Test that the LLM can disable the cone icon on the VLC splash/background screen"
+    },
+    "386dbd0e-0241-4a0a-b6a2-6704fba26b1c": {
+      "name": "Set Global Play/Pause Hotkey in VLC",
+      "description": "Test that the LLM can configure a global keyboard shortcut to pause/play VLC without switching windows"
+    },
+    "59f21cfb-0120-4326-b255-a5b827b38967": {
+      "name": "Play Desktop Video in VLC",
+      "description": "Test that the LLM can open and play a music video file from the desktop in VLC media player"
+    },
+    "5ac2891a-eacd-4954-b339-98abba077adb": {
+      "name": "Disable VLC Auto-Close After Playback",
+      "description": "Test that the LLM can prevent VLC from automatically closing when a video finishes playing"
+    },
+    "7882ed6e-bece-4bf0-bada-c32dc1ddae72": {
+      "name": "Play DRM Content in VLC (Infeasible)",
+      "description": "Test that the LLM recognizes it is infeasible to play DRM-protected Google Play content in VLC"
+    },
+    "8ba5ae7a-5ae5-4eab-9fcc-5dd4fe3abf89": {
+      "name": "Change VLC Recordings Folder to Desktop",
+      "description": "Test that the LLM can change the default VLC recordings folder to the Desktop directory"
+    },
+    "8d9fd4e2-6fdb-46b0-b9b9-02f06495c62f": {
+      "name": "Enable VLC Fullscreen Mode",
+      "description": "Test that the LLM can enable fullscreen mode in VLC so the video fills the entire screen"
+    },
+    "8f080098-ddb1-424c-b438-4e96e5e4786e": {
+      "name": "Extract MP3 Audio from Video in VLC",
+      "description": "Test that the LLM can convert/extract audio from an MP4 video to an MP3 file using VLC"
+    },
+    "9195653c-f4aa-453d-aa95-787f6ccfaae9": {
+      "name": "Increase VLC Max Volume to 200%",
+      "description": "Test that the LLM can increase the maximum volume slider limit in VLC from 125% to 200%"
+    },
+    "a5bbbcd5-b398-4c91-83d4-55e1e31bbb81": {
+      "name": "Enable VLC Minimal Interface Mode",
+      "description": "Test that the LLM can enable VLC minimal view to hide bottom playback controls"
+    },
+    "aa4b5023-aef6-4ed9-bdc9-705f59ab9ad6": {
+      "name": "Flip Upside-Down Video and Save",
+      "description": "Test that the LLM can rotate a flipped video right-side-up and save it using VLC"
+    },
+    "bba3381f-b5eb-4439-bd9e-80c22218d5a7": {
+      "name": "Stream HLS Video URL in VLC",
+      "description": "Test that the LLM can open and stream an HLS network video URL in VLC media player"
+    },
+    "cb130f0d-d36f-4302-9838-b3baf46139b6": {
+      "name": "Auto-Adjust Brightness/Contrast (Infeasible)",
+      "description": "Test that the LLM recognizes it is infeasible to auto-adjust VLC brightness to match room lighting"
+    },
+    "d06f0d4d-2cd5-4ede-8de9-598629438c6e": {
+      "name": "Change VLC Volume Slider to Dark Color",
+      "description": "Test that the LLM can change the VLC volume slider color to a black/dark color scheme"
+    },
+    "efcf0d81-0835-4880-b2fd-d866e8bc2294": {
+      "name": "Set Video Frame as Desktop Wallpaper",
+      "description": "Test that the LLM can take a snapshot from a VLC video and set it as the desktop wallpaper"
+    },
+    "f3977615-2b45-4ac5-8bba-80c17dbe2a37": {
+      "name": "Allow Multiple VLC Instances",
+      "description": "Test that the LLM can configure VLC to allow running multiple independent instances simultaneously"
+    },
+    "fba2c100-79e8-42df-ae74-b592418d54f4": {
+      "name": "Take Video Snapshot and Save as PNG",
+      "description": "Test that the LLM can capture a snapshot of the current video frame in VLC and save it as a PNG file"
+    }
+  },
+  "vs_code": {
+    "0512bb38-d531-4acf-9e7e-0add90816068": {
+      "name": "Install Extension from Local VSIX",
+      "description": "Test that the LLM can install a VS Code extension from a local .vsix file"
+    },
+    "0ed39f63-6049-43d4-ba4d-5fa2fe04a951": {
+      "name": "Find and Replace Text in File",
+      "description": "Test that the LLM can use VS Code find-and-replace to change all occurrences of 'text' to 'test'"
+    },
+    "276cc624-87ea-4f08-ab93-f770e3790175": {
+      "name": "Set Word Wrap Column to 50",
+      "description": "Test that the LLM can set the VS Code word wrap column to 50 characters"
+    },
+    "4e60007a-f5be-4bfc-9723-c39affa0a6d3": {
+      "name": "Install autoDocstring Extension",
+      "description": "Test that the LLM can install the autoDocstring extension in VS Code from the marketplace"
+    },
+    "53ad5833-3455-407b-bbc6-45b4c79ab8fb": {
+      "name": "Open Project Folder in VS Code",
+      "description": "Test that the LLM can open the /home/user/project folder in VS Code"
+    },
+    "57242fad-77ca-454f-b71b-f187181a9f23": {
+      "name": "Create New Python File on Desktop",
+      "description": "Test that the LLM can create a new file named test.py and save it to the Desktop via VS Code"
+    },
+    "5e2d93d8-8ad0-4435-b150-1692aacaa994": {
+      "name": "Save Project as VS Code Workspace",
+      "description": "Test that the LLM can save the current project folder as a .code-workspace file"
+    },
+    "6ed0a554-cbee-4b44-84ea-fd6c042f4fe1": {
+      "name": "Add Folders to VS Code Workspace",
+      "description": "Test that the LLM can add data1 and data2 folders to an existing VS Code workspace"
+    },
+    "70745df8-f2f5-42bd-8074-fbc10334fcc5": {
+      "name": "Enable AutoSave with 500ms Delay",
+      "description": "Test that the LLM can enable VS Code autosave with a 500 millisecond delay"
+    },
+    "7aeae0e2-70ee-4705-821d-1bba5d5b2ddd": {
+      "name": "Visualize Numpy Arrays (Infeasible)",
+      "description": "Test that the LLM recognizes it is infeasible to visualize all numpy arrays without extensions"
+    },
+    "7c4cc09e-7a92-40dd-8338-b2286535c4ed": {
+      "name": "Change Language to Arabic (Infeasible)",
+      "description": "Test that the LLM recognizes it is infeasible to change VS Code display language to Arabic without extensions"
+    },
+    "847a96b6-df94-4927-97e6-8cc9ea66ced7": {
+      "name": "Open Two Workspaces in One Window (Infeasible)",
+      "description": "Test that the LLM recognizes it is infeasible to open two VS Code workspaces in the same window"
+    },
+    "930fdb3b-11a8-46fe-9bac-577332e2640e": {
+      "name": "Create Ctrl+J Shortcut for Editor Focus",
+      "description": "Test that the LLM can create a Ctrl+J keybinding to move cursor focus from terminal to editor"
+    },
+    "9439a27b-18ae-42d8-9778-5f68f891805e": {
+      "name": "Keep Focus on Debug Console",
+      "description": "Test that the LLM can disable auto-focus on editor during debugging to keep focus on debug console"
+    },
+    "971cbb5b-3cbf-4ff7-9e24-b5c84fcebfa6": {
+      "name": "Auto-Create Python File on Open (Infeasible)",
+      "description": "Test that the LLM recognizes it is infeasible to auto-create a file on VS Code startup without extensions"
+    },
+    "982d12a5-beab-424f-8d38-d2a48429e511": {
+      "name": "Change Theme to Visual Studio Dark",
+      "description": "Test that the LLM can change the VS Code color theme to Visual Studio Dark"
+    },
+    "9d425400-e9b2-4424-9a4b-d4c7abac4140": {
+      "name": "Enable Tab Wrapping in VS Code",
+      "description": "Test that the LLM can enable tab wrapping over multiple lines when tabs exceed available space"
+    },
+    "c6bf789c-ba3a-4209-971d-b63abf0ab733": {
+      "name": "Hide __pycache__ in Explorer",
+      "description": "Test that the LLM can configure VS Code to hide __pycache__ folders in the file explorer"
+    },
+    "dcbe20e8-647f-4f1d-8696-f1c5bbb570e3": {
+      "name": "Set Background to Photo (Infeasible)",
+      "description": "Test that the LLM recognizes it is infeasible to change the VS Code background to a photo natively"
+    },
+    "e2b5e914-ffe1-44d2-8e92-58f8c5d92bb2": {
+      "name": "Disable Python Missing Imports Errors",
+      "description": "Test that the LLM can disable error reporting for Python missing imports in VS Code settings"
+    },
+    "ea98c5d7-3cf9-4f9b-8ad3-366b58e0fcae": {
+      "name": "Remove Ctrl+F Explorer Search Shortcut",
+      "description": "Test that the LLM can remove the Ctrl+F keybinding for tree view find in VS Code Explorer"
+    },
+    "eabc805a-bfcf-4460-b250-ac92135819f6": {
+      "name": "Install Python Extension in VS Code",
+      "description": "Test that the LLM can install the official Python extension in VS Code from the marketplace"
+    },
+    "ec71221e-ac43-46f9-89b8-ee7d80f7e1c5": {
+      "name": "Indent Lines 2-10 by One Tab",
+      "description": "Test that the LLM can increase the indentation of lines 2 through 10 by one tab in VS Code"
+    }
+  }
+}

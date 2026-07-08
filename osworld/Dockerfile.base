@@ -1,0 +1,28 @@
+FROM gcr.io/kaggle-images/python:dind
+
+# Clone OSWorld
+RUN git clone https://github.com/xlang-ai/OSWorld /tmp/OSWorld
+
+# Create isolated venv to avoid conflicts with base image packages
+RUN python3 -m venv /tmp/osworld_env --without-pip \
+    && curl -sS https://bootstrap.pypa.io/get-pip.py | /tmp/osworld_env/bin/python3 \
+    && /tmp/osworld_env/bin/python3 -m pip install --upgrade pip setuptools wheel
+
+# Fix numpy pin and install dependencies
+RUN sed -i 's/^numpy.*/numpy==1.26.4/' /tmp/OSWorld/requirements.txt \
+    && /tmp/osworld_env/bin/python3 -m pip install "numpy==1.26.4" "scipy>=1.12.0" "gymnasium>=0.29.1" \
+    && /tmp/osworld_env/bin/python3 -m pip install -r /tmp/OSWorld/requirements.txt
+
+# Pre-download and extract Ubuntu VM image, then remove the zip to keep image small
+RUN mkdir -p /tmp/OSWorld/docker_vm_data \
+    && curl -L -o /tmp/OSWorld/docker_vm_data/Ubuntu.qcow2.zip \
+        https://huggingface.co/datasets/xlangai/ubuntu_osworld/resolve/main/Ubuntu.qcow2.zip \
+    && cd /tmp/OSWorld/docker_vm_data \
+    && unzip Ubuntu.qcow2.zip \
+    && rm Ubuntu.qcow2.zip
+
+# Pre-populate the file cache so tasks don't download from HuggingFace at runtime
+COPY scripts/cache_manifest.txt scripts/populate_cache.sh /tmp/
+RUN chmod +x /tmp/populate_cache.sh \
+    && /tmp/populate_cache.sh /tmp/OSWorld \
+    && rm /tmp/cache_manifest.txt /tmp/populate_cache.sh
