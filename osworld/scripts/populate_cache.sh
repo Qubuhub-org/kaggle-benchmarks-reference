@@ -1,4 +1,3 @@
-#!/bin/bash
 # Copyright 2026 Google LLC
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,6 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+#!/bin/bash
 # Pre-populate the OSWorld file cache from HuggingFace.
 # Reads cache_manifest.txt (tab-separated: url, cache_path) and downloads each file.
 set -euo pipefail
